@@ -22,3 +22,4 @@
 1014 : Best Sightseeing Pair<br>
 1769 : Minimum Number of Operations to Move All Balls to Each Box<br>
 1964 : Find the Longest Valid Obstacle Course at Each Position<br>
+56. Merge Intervals<br>
